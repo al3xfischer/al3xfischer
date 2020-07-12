@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋 👨‍💻
 
-``` javascript
+```js
 while (al3xfischer.isAlive()) {
  eat()
  sleep()
