@@ -1,5 +1,13 @@
 # Hi, I'm Alex 👋 👨‍💻
 
+``` javascript
+while (al3xfischer.isAlive()) {
+ eat()
+ sleep()
+ code()
+}
+```
+
 <!--
 **al3xfischer/al3xfischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
