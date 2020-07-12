@@ -1,12 +1,6 @@
 # Hi, I'm Alex 👋 👨‍💻
 
-```js
-while (al3xfischer.isAlive()) {
- eat();
- sleep();
- code();
-}
-```
+![image](https://github.com/al3xfischer/al3xfischer/blob/master/coding.gif)
 
 <!--
 **al3xfischer/al3xfischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
