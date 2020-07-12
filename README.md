@@ -2,9 +2,9 @@
 
 ```js
 while (al3xfischer.isAlive()) {
- eat()
- sleep()
- code()
+ eat();
+ sleep();
+ code();
 }
 ```
 
