@@ -1,6 +1,8 @@
 # Hi, I'm Alex 👋 👨‍💻
 
-![image](https://github.com/al3xfischer/al3xfischer/blob/master/coding.gif)
+<p align="center">
+  <img src="https://github.com/al3xfischer/al3xfischer/blob/master/coding.gif">
+</p>
 
 <!--
 **al3xfischer/al3xfischer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
