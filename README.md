@@ -1,7 +1,5 @@
 # Hi, I'm Alex 👋 👨‍💻
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3xfischer&layout=compact)](https://github.com/al3xfischer/github-readme-stats)
-
 <p align="center">
   <img src="https://github.com/al3xfischer/al3xfischer/blob/master/coding.gif">
 </p>
