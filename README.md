@@ -1,5 +1,5 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Alex Fischer, I'm a fulstack software engineer.  
+My name is Alex Fischer, I'm a fullstack software engineer.  
 I'm from Austria and I'm also living, studying and working here (🇦🇹⛰️).  
 How to reach me (see below).
 
