@@ -1,11 +1,10 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Alex Fischer, I'm a fullstack software engineer.  
+My name is Alex Fischer, MSc, and I am a full-stack software engineer. 
 I'm from Austria and I'm also living, studying and working here (🇦🇹⛰️).  
 How to reach me (see below).
 
 #### NOW
   - 🌱 I’m currently learning Rust and Svelte
-  - 🧑‍🎓 I study software architecture in the Master (finishing 2022)
   - ❤️‍🔥 about software architecture and design
 
 #### BIO
