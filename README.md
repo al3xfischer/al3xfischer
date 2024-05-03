@@ -1,17 +1,18 @@
 # Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-My name is Alex Fischer, MSc, and I am a full-stack software engineer. 
-I'm from Austria and I'm also living, studying and working here (🇦🇹⛰️).  
+My name is Alexander Fischer, MSc, and I am a full-stack software engineer/architect. 
+I'm from Austria and I'm also living, learning and working here (🇦🇹⛰️).  
 How to reach me (see below).
 
 #### NOW
-  - 🌱 I’m currently learning Rust and Svelte
+  - 🌱 I’m currently advancing Python, DataScience and AI skills
   - ❤️‍🔥 about software architecture and design
+  - ❤️ teaching others how to code
 
 #### BIO
   - 🔭 I'm currently working for a small software company.
   - 😄 File types I use (nearly) daily: `.cs`,`.ts`,`.js`,`.sql`,`.html`,`css`
   - 😄 I know the JS/TS frameworks/libraries:  `ReactJS` , `Angular`, `Vue`
-  - ❤️ working with Neovim
+  - ❤️ working with Neovim and Vim keybindings in general
   - 👯 I’m looking to collaborate on many things. I can't list them all 😁
   - ⚡ Fun fact: I play 🥁 and like 🧗
   - ⚡ Fun fact: I have to much private code (I am working to change that asap)
