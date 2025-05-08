@@ -17,7 +17,7 @@ How to reach me (see below).
   - ⚡ Fun fact: I play 🥁 and like 🧗
   - ⚡ Fun fact: I have to much private code (I am working to change that asap)
   - 🌐 I speak German and English
-  - 💻 C#, TS/JS, Python, (Rust), SQL, PL/SQL, Go, (Some C++, Haskel, and Prolog)
+  - 💻 C#, TS/JS, Python, Rust, SQL, PL/SQL, Go,C/C++ (Some Haskel, and Prolog)
   - 💬 Ask me about: anything you like
   - 📫 How to reach me: [Twitter](https://twitter.com/al3xfischer) , [Stackoverflow](https://stackoverflow.com/users/9415076/alex-fischer), and of course [GitHub](https://github.com/al3xfischer)
  
